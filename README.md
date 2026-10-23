@@ -6,13 +6,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=210&section=header&text=DAN12590&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Building%20things%20one%20commit%20at%20a%20time&descAlignY=58&descSize=16" width="100%" alt="DAN12590 — building things one commit at a time" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Developer+in+progress;Learning+by+building;JavaScript+%7C+Java+%7C+Python" alt="Developer in progress · Learning by building · JavaScript, Java, Python" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Developer+in+progress;Learning+by+building;JavaScript+%7C+Java+%7C+Python" alt="Developer in progress · Learning by building · Java, Python, Javascript" />
 
 
 
 </div>
 
-whoami 👋
+
 Hey! I'm David — I like learning how things work, building practical projects, and improving a little with every commit.
 - 🛠️ I build small tools that solve real problems.
 - 🌐 I’m exploring web development and programming fundamentals.
