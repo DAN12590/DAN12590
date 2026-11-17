@@ -8,18 +8,19 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Developer+in+progress;Learning+by+building;JavaScript+%7C+Java+%7C+Python" alt="Developer in progress · Learning by building · Java, Python, Javascript" />
 
-
-
 </div>
 
-
 Hey! I'm David — I like learning how things work, building practical projects, and improving a little with every commit.
+
 - 🛠️ I build small tools that solve real problems.
 - 🌐 I’m exploring web development and programming fundamentals.
 - 📚 I use projects and practice exercises to keep learning.
 - 🎯 My goal: keep experimenting, keep improving, and turn ideas into working code.
-tech-stack 💻
+
+## 💻 Tech stack
+
 These are some of the technologies you'll find across my projects and practice repositories:
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,7 +31,8 @@ These are some of the technologies you'll find across my projects and practice r
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-featured-projects 🚀
+## 🚀 Featured projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -62,20 +64,22 @@ featured-projects 🚀
   <a href="https://github.com/DAN12590?tab=repositories"><img src="https://img.shields.io/badge/More%20projects-View%20all%20repositories-6366f1?style=for-the-badge&logo=github" alt="View all repositories" /></a>
 </p>
 
-github-stats 📊
+## 📊 GitHub stats
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DAN12590&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats for DAN12590" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAN12590&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages on DAN12590's public repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAN12590&theme=tokyonight" width="100%" alt="DAN12590's contributions over the last year" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAN12590&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img height="170" src="https://streak-stats.demolab.com?user=DAN12590&theme=tokyonight&hide_border=true" alt="GitHub streak stats for DAN12590" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAN12590&theme=tokyonight" alt="Top languages by commit for DAN12590" />
 </div>
 
 <div align="center">
 
-Thanks for stopping by! ✨
+Thanks for stopping by! ✨<br>
 Stay curious. Keep building. Learn something new every day.
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
 </div>
