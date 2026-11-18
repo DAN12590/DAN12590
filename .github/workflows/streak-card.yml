@@ -1,0 +1,33 @@
+name: Streak card
+
+on:
+  schedule:
+    - cron: "15 */3 * * *" # cada 3 horas
+  workflow_dispatch:
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Descargar la tarjeta de racha
+        run: |
+          mkdir -p cards
+          curl -sSf --retry 3 -o cards/streak.svg \
+            "https://streak-stats.demolab.com?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&timezone=Europe/Madrid"
+          grep -q "<svg" cards/streak.svg
+      - name: Commit si ha cambiado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards/streak.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Actualiza la tarjeta de racha"
+          git pull --rebase
+          git push

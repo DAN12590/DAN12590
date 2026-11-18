@@ -71,7 +71,7 @@ These are some of the technologies you'll find across my projects and practice r
 </div>
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=DAN12590&theme=tokyonight&hide_border=true" alt="GitHub streak stats for DAN12590" />
+  <img height="170" src="./cards/streak.svg" alt="GitHub streak stats for DAN12590" />
   <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit for DAN12590" />
 </div>
 
