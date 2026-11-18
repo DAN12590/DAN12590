@@ -67,12 +67,12 @@ These are some of the technologies you'll find across my projects and practice r
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAN12590&theme=tokyonight" width="100%" alt="DAN12590's contributions over the last year" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="DAN12590's contributions over the last year" />
 </div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=DAN12590&theme=tokyonight&hide_border=true" alt="GitHub streak stats for DAN12590" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAN12590&theme=tokyonight" alt="Top languages by commit for DAN12590" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit for DAN12590" />
 </div>
 
 <div align="center">
